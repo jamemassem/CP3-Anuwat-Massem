@@ -29,5 +29,3 @@ def priceCalculator():
 print(login()) 
 print(showMenu()) 
 print(menuSelect()) 
-print(vatCalculator())
-print(priceCalculator()) 
